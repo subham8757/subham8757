@@ -10,7 +10,7 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=subham8757&style=for-the-badge&color=blue" alt="profile-view"/>
-   <a target="_blank" href="https://drive.google.com/file/d/1FPBY2jfPbqU24wUT9q8aZPdVVW2PsgWt/view">
+   <a target="_blank" href="https://drive.google.com/file/d/1OdnVZ55ErukxR2cpErE7R30-cgkHWhLd/view?usp=sharing">
      <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume" />
     </a>
 </div>
